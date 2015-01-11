@@ -5,6 +5,10 @@ Python Pleer.com API
 
 Доступны все методы, описанные в документации (11.01.2015).
 
+Для работы необходима библиотека requests.
+
+	pip install requests
+
 Пример использования в файле [example.py](https://github.com/amureki/pleercom-py/blob/master/example.py).
 
 [Документация по Pleer.com API](http://pleer.com/ru/api)
