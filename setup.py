@@ -7,7 +7,7 @@ required_packages = [
 
 setup(
     name='pleercom-py',
-    version='0.1',
+    version='0.1.1',
     description='Pleer.com API Wrapper',
     author='Rustem Sayargaliev',
     author_email='r.sayargaliev@gmail.com',
